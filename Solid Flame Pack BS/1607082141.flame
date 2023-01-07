@@ -1,0 +1,28 @@
+<flame smooth_gradient="0" version="JWildfire 3.00 FUCKING EARLY ALPHA (03.07.2016)" size="1920 1080" center="0.0 0.0" scale="94.08070138807246" rotate="0.0" filter="0.5" filter_kernel="GAUSSIAN" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="800.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.46774823953448036" cam_yaw="0.0" cam_persp="0.052" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" quality_profile="Medium quality" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" post_blur_radius="0" post_blur_fade="0.95" post_blur_falloff="2.0" sld_render_enabled="1" sld_render_lights_enabled="1" sld_render_ssao_enabled="0" sld_render_ssao_intensity="1.0" sld_render_shadows_enabled="0" sld_render_material_count="2" sld_render_material_diffuse0="0.4" sld_render_material_ambient0="0.6" sld_render_material_phong0="0.8" sld_render_material_phong_size0="12.0" sld_render_material_phong_red0="1.0" sld_render_material_phong_green0="1.0" sld_render_material_phong_blue0="1.0" sld_render_material_light_diif_func0="COSA" sld_render_material_diffuse1="0.6" sld_render_material_ambient1="0.6" sld_render_material_phong1="0.6" sld_render_material_phong_size1="15.0" sld_render_material_phong_red1="1.0" sld_render_material_phong_green1="1.0" sld_render_material_phong_blue1="0.3" sld_render_material_light_diif_func1="COSA" sld_render_ligtht_count="2" sld_render_light_x0="6.12" sld_render_light_y0="0.12" sld_render_light_z0="0.7" sld_render_light_intensity0="1.0" sld_render_light_red0="1.0" sld_render_light_green0="1.0" sld_render_light_blue0="1.0" sld_render_light_shadows0="1" sld_render_light_x1="-1.8" sld_render_light_y1="-0.22" sld_render_light_z1="0.8" sld_render_light_intensity1="0.5" sld_render_light_red1="1.0" sld_render_light_green1="1.0" sld_render_light_blue1="1.0" sld_render_light_shadows1="0" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" obj_mesh_wf="0.328" obj_mesh_wf_fx_priority="0" obj_mesh_wf_scale_x="1.0" obj_mesh_wf_scale_y="1.0" obj_mesh_wf_scale_z="1.0" obj_mesh_wf_offset_x="0.0" obj_mesh_wf_offset_y="0.0" obj_mesh_wf_offset_z="0.0" obj_mesh_wf_obj_filename="443A5C50696374757265735C323031355C53657074656D6265725C4E657720466F6C64657220283139295C322E6F626A" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.9203736281080059 0.8008198203611757 -0.8008198203611757 0.9203736281080059 -5.38151066692293 -1.9441446502757287" yzPost="0.8553141110747849 -0.6988832315890466 0.6988832315890466 0.8553141110747849 0.9388074927186978 0.19219680953296173" zxPost="0.9170103191652139 -0.3988634785794668 0.3988634785794668 0.9170103191652139 0.0 0.0" chaos="1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" linear3D_fx_priority="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 6.5642602640488485 -0.036960924910184934" chaos="1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="0.5" linear3D_fx_priority="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 -1.0 4.5" yzPost="0.8104212868864815 -0.7504780728051011 0.7504780728051011 0.8104212868864815 0.0 -0.022176554946110982" chaos="1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+DF540BDA520BD5510BD04F0ACB4E0AC64C0AC14B0ABC4909B74809B24609AD4409A84308
+A341089E4008993E08943D078F3B078A39078538078036077B35067633067132066C3006
+672F05622D05602C05642B05672B056B2A066E2A067129067529067828067C27067F2706
+8226078626078925078D25079024079324079723089A22089E2208A12108A42108A82008
+AB2009AF1F09B21F09B51E09B11D09AA1C08A31B089C1A089518078E1707871607801506
+7A14067313066C11056510055E0F05570E04500D04490B03430A033C09033508022E0702
+2706022004011903011202010C0100080202120A091B1311251C192E2521382D29423630
+4B3F385547405E50486859507262587B6A5F8573678E7C6F988477A28D7FAB9686B59F8E
+BFA796C8B09ED2B9A6DBC1ADE5CAB5EFD3BDF8DCC5F6DDC3EDD9BCE4D6B4DBD2ADD1CFA5
+C8CC9EBFC896B5C58FACC187A3BE8099BA7890B77187B3697EB06174AC5A6BA95262A54B
+58A2434F9E3C469B343C972D3394252A901E218D1617890F0E86070E81090E7C0B0E770D
+0E720E0E6C100E67120F62140F5D160F58180F53190F4E1B0F491D0F431F0F3E210F3923
+0F34240F2F260F2A280F252A10202C101B2E10152F101031100B33100635120736191036
+1F1A352523352B2D353136353840353E49344452344A5C34506534566F335D7833638233
+698B336F9532759E327BA73282B13288BA318EC43194CD319AD731A0E031A7EA30ADF330
+B0F331B3F032B6EE33B9EB34BCE936BEE637C1E438C4E139C7DF3ACADC3BCCDA3DCFD73E
+D2D53FD5D240D8CF41DACD43DDCA44E0C845E3C546E6C347E9C048EBBE4AEEBB4BF1B94C
+F4B64DF5B34DF2AF4BEEAB48EBA745E7A343E49F40E09B3DDD963AD99238D68E35D38A32
+CF862FCC822DC87E2AC57A27C17624BE7222BA6D1FB7691CB3651AB06117AC5D14A95911
+A5550FA2510C9E4D099D4C0E9E4F179F51209F532AA05533A0573DA15A46A15C50A25E59
+A36062A3636CA46575A4677FA56988A66C91A66E9BA770A4A772AEA874B7A877C1A979CA
+AA7BD3AA7DDDAB80E6AB82F0  </palette>
+</flame>

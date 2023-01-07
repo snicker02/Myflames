@@ -1,0 +1,29 @@
+<flame smooth_gradient="0" version="JWildfire 3.00 FUCKING EARLY ALPHA (03.07.2016)" size="960 540" center="0.0 0.0" scale="154.3339473949882" rotate="0.0" filter="0.5" filter_kernel="GAUSSIAN" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="800.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="1.0471975511965976" cam_yaw="1.0471975511965976" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" post_blur_radius="0" post_blur_fade="0.95" post_blur_falloff="2.0" sld_render_enabled="1" sld_render_lights_enabled="1" sld_render_ssao_enabled="0" sld_render_ssao_intensity="1.0" sld_render_shadows_enabled="0" sld_render_material_count="2" sld_render_material_diffuse0="0.4" sld_render_material_ambient0="0.6" sld_render_material_phong0="0.8" sld_render_material_phong_size0="12.0" sld_render_material_phong_red0="1.0" sld_render_material_phong_green0="1.0" sld_render_material_phong_blue0="1.0" sld_render_material_light_diif_func0="COSA" sld_render_material_diffuse1="0.6" sld_render_material_ambient1="0.6" sld_render_material_phong1="0.6" sld_render_material_phong_size1="15.0" sld_render_material_phong_red1="1.0" sld_render_material_phong_green1="1.0" sld_render_material_phong_blue1="0.3" sld_render_material_light_diif_func1="COSA" sld_render_ligtht_count="2" sld_render_light_x0="6.12" sld_render_light_y0="0.12" sld_render_light_z0="0.7" sld_render_light_intensity0="1.0" sld_render_light_red0="1.0" sld_render_light_green0="1.0" sld_render_light_blue0="1.0" sld_render_light_shadows0="1" sld_render_light_x1="-1.8" sld_render_light_y1="-0.22" sld_render_light_z1="0.8" sld_render_light_intensity1="0.5" sld_render_light_red1="1.0" sld_render_light_green1="1.0" sld_render_light_blue1="1.0" sld_render_light_shadows1="0" mixer_mode="OFF">
+  <xform weight="1.31" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" sinusoidal="1.02" sinusoidal_fx_priority="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="1.08" color="0.33333" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian2="1.446127314926266" julian2_fx_priority="0" julian2_power="100" julian2_dist="1.0" julian2_a="2.0" julian2_b="0.0" julian2_c="0.0" julian2_d="1.0" julian2_e="0.0" julian2_f="0.0" extrude="-0.2" extrude_fx_priority="0" extrude_root_face="0.5" coefs="-0.14139 -0.23698 0.23698 -0.14139 -0.23754 0.27812" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.66667" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="-0.3484854165663606" linear3D_fx_priority="0" bubble="0.7917344754204375" bubble_fx_priority="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.2" color="0.1" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" julian3Dx="0.5" julian3Dx_fx_priority="0" julian3Dx_power="4" julian3Dx_dist="1.0" julian3Dx_a="1.0" julian3Dx_b="0.0" julian3Dx_c="0.0" julian3Dx_d="1.0" julian3Dx_e="0.0" julian3Dx_f="0.0" pre_blur="1.028" pre_blur_fx_priority="-1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+FFF5E3FFF5E3FDC77EFDBC7FFDB281FDA884FD9E86FD9589FFEFDDFFF5E37A2214713B13
+736A2675993977C84C79F65FEEF6D3FFF5E3ADFCA6AAD2A0B7A1A6C370ABD03FB1DD0DB6
+F9C8DBFFF5E358335A46294D645B69828D85A1BFA0BFF2BCF1F7DBFFF5E3FDBB5DDC8E3D
+B06E55854E6C592E842D0D9CB9A9CFFFF5E36052AC1D157E2E30623F4C4550672961830D
+C6CE8FFFF5E3FD8E5DFB5613FC6727FC783BFD894FFD9A62FED0AFFFF5E38C7E67432E0A
+6C501B95722CBF953EE8B64FFEDE9DFFF5E3EBA977D3690ACD891AC8A929C2CA38BDEA48
+D8F990FFF5E3D6D3EE9C9BFD9887FD9373FD8F5EFC8A4AFCB582F3FFF5E3C3C692596E02
+5B64025C5A025E4F02604502927748FFF5E3E3F7ABA3F323ADD81CB6BE15BFA30FC98808
+DC943BFFF5E3C7BCD51B0CA94A31AB7957AEA97DB0D7A2B3FECBBEFFF5E3F7F6CECFF668
+BFC953AE9C3E9E6F298E42148F361EFFF5E3FCE1CBDD3D04B33703893102602B02362501
+1E2C0EFFF5E3F7ECD85A39016F3601843302993102AE2E03C32B03FFF3E1FFF5E3B2FC50
+8FD06A6CA4894B77A7284AC5061EE4EDE6E3FFF5E3542DF9491CFB4F1EFB561FFB5C21FB
+6223FBEAD9E6FFF5E3262C2C1E1F0A403908635307866D05A88703EFE0B7FFF5E33838B4
+0D0DB51B15C6281ED63626E7432FF8CFC2E9FFF5E387683F603701693D017244027A4A02
+835002D8C19BFFF5E358584C252312564C2D877447B99C62EAC57DFEE8C0FFF5E395725B
+4F181E51144F520F7F540BB05506E1B48AEBFFF5E3CE7F6AAC3313B96033C68D52D3BA71
+E0E791F2F9C1FFF5E3F5E079E9BA1BE59C4DE17E7EDC60AFD841E0E885F1FFF5E3F4B087
+D84C04BB47039F4203833E02663902937C54FFF5E3FEE4BFFDC37DFDB980FDAF82FDA585
+FD9B87FEB2A4FFF5E3D5B3A2701D07724C1A747B2D76AA4078D95399FA80FFF5E3E9F7D3
+A2F29DAFC0A2BB8FA8C85EADD42DB3E52FBFFFF5E3DDCDC733093B513B576F6D738DA08F
+ACD1ABCDFDC7FFF5E3FFEDD0F8A32ECC8246A1625E75427549228D2C10A7FFF5E3F6ECE0
+130390231F73343A5845553B  </palette>
+</flame>

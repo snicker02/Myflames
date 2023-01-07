@@ -1,0 +1,27 @@
+<flame name="Gear" smooth_gradient="0" version="JWildfire 3.00 ALPHA 1 (30.07.2016)" size="960 540" center="0.0 0.0" scale="164.0648968938842" rotate="42.92" filter="0.5" filter_kernel="GAUSSIAN" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.5" quality="500.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="2.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="1.0367255756846316" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" resolution_profile="1080x1080" quality_profile="Low quality" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" post_blur_radius="0" post_blur_fade="0.95" post_blur_falloff="2.0" sld_render_enabled="1" sld_render_lights_enabled="1" sld_render_ssao_enabled="1" sld_render_ssao_intensity="1.0" sld_render_shadows_enabled="0" sld_render_material_count="2" sld_render_material_diffuse0="0.4" sld_render_material_ambient0="0.4" sld_render_material_phong0="0.8" sld_render_material_phong_size0="12.0" sld_render_material_phong_red0="0.0" sld_render_material_phong_green0="0.0" sld_render_material_phong_blue0="0.8" sld_render_material_refl_map_intensity0="0.5" sld_render_material_refl_map_filename0="" sld_render_material_light_diif_func0="COSA" sld_render_material_diffuse1="0.6" sld_render_material_ambient1="0.6" sld_render_material_phong1="0.6" sld_render_material_phong_size1="15.0" sld_render_material_phong_red1="1.0" sld_render_material_phong_green1="1.0" sld_render_material_phong_blue1="0.3" sld_render_material_refl_map_intensity1="0.5" sld_render_material_refl_map_filename1="" sld_render_material_light_diif_func1="COSA" sld_render_ligtht_count="2" sld_render_light_x0="6.12" sld_render_light_y0="0.12" sld_render_light_z0="0.7" sld_render_light_intensity0="1.84" sld_render_light_red0="1.0" sld_render_light_green0="1.0" sld_render_light_blue0="1.0" sld_render_light_shadows0="1" sld_render_light_x1="-1.8" sld_render_light_y1="-0.22" sld_render_light_z1="0.8" sld_render_light_intensity1="0.5" sld_render_light_red1="1.0" sld_render_light_green1="1.0" sld_render_light_blue1="1.0" sld_render_light_shadows1="0" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" obj_mesh_primitive_wf="1.0" obj_mesh_primitive_wf_fx_priority="0" obj_mesh_primitive_wf_primitive="23" obj_mesh_primitive_wf_scale_x="1.0" obj_mesh_primitive_wf_scale_y="1.0" obj_mesh_primitive_wf_scale_z="1.0" obj_mesh_primitive_wf_offset_x="0.0" obj_mesh_primitive_wf_offset_y="0.0" obj_mesh_primitive_wf_offset_z="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" obj_mesh_wf="0.112" obj_mesh_wf_fx_priority="0" obj_mesh_wf_scale_x="1.0" obj_mesh_wf_scale_y="1.0" obj_mesh_wf_scale_z="1.0" obj_mesh_wf_offset_x="0.0" obj_mesh_wf_offset_y="0.0" obj_mesh_wf_offset_z="0.0" obj_mesh_wf_obj_filename="443A5C50696374757265735C6F626A2066696C65735C73686170655F63796C696E646572312E6F626A" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.22506153155461345 0.0 0.0 0.22506153155461345 0.4564674226407841 -0.4028740815210159" yzPost="1.0 0.0 0.0 1.0 0.0 -1.875" chaos="1.0 1.0"/>
+  <palette count="256" format="RGB">
+559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1
+559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1559EB1
+559EB1510E94510E94510E94510E94510E94510E94510E94510E94510E94510E94510E94
+510E94510E94510E94510E94510E94510E94510E94510E94510E94510E94510E94510E94
+510E94510E94510E9491FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD27
+91FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD2791FD27
+91FD2791FD2791FD2791FD27FA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1D
+FA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1D
+FA9C1DFA9C1DFA9C1DFA9C1DFA9C1DFA9C1D92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD
+92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD
+92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CD92D9CDC822D9C822D9C822D9C822D9
+C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D9
+C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D9C822D97FB80E7FB80E7FB80E
+7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E
+7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E7FB80E05E7A7
+05E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A7
+05E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A705E7A7
+F64519F64519F64519F64519F64519F64519F64519F64519F64519F64519F64519F64519
+F64519F64519F64519F64519F64519F64519F64519F64519F64519F64519F64519F64519
+F64519F64519E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655
+E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655E0B655
+E0B655E0B655E0B655E0B655  </palette>
+</flame>
